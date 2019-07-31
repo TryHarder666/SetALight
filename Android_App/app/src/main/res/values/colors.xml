@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorToolbar">#001D36</color>
+    <color name="colorBg">#052742</color>
+    <color name="colorAccent">#001D36</color>
+    <color name="colorFont">#FAFAFA</color>
+    <color name="colorTitle">#002E58</color>
+    <color name="colorContent">#00407A</color>
+    <color name="colorStoppMagic">#D80000</color>
+
+    <color name="colorRecieveText">#00FF00</color>
+    <color name="colorSendText">#82CAFF</color>
+    <color name="colorStatusText">#FFDB58</color>
+</resources>
